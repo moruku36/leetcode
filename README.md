@@ -1,2 +1,0 @@
-# leetcode Traning 
- leetcode Traning 
