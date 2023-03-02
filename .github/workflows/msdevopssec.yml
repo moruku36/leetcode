@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run Microsoft Security DevOps
-        uses: microsoft/msdevopssec@v0
+        uses: moruku36/leetcode@v0
         with:
           # The name of your Azure subscription where you have onboarded to Microsoft Defender for Cloud.
           subscriptionName: ''
