@@ -14,6 +14,6 @@ jobs:
         uses: moruku36/leetcode@v0
         with:
           # The name of your Azure subscription where you have onboarded to Microsoft Defender for Cloud.
-          subscriptionName: ''
+          subscriptionName: ME-MngEnv785788-kentaromori
           # The name of your environment that you have onboarded to Microsoft Defender for Cloud.
-          environmentName: ''
+          environmentName: workspacemoritest292dd
